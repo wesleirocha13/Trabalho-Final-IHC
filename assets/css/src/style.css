@@ -1,0 +1,76 @@
+:root {
+    --height: calc(100vh - 56px);
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.opacity {
+    opacity: 0;
+}
+
+.font-family{
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+.footer{
+    background: #f2f2f2;
+    min-height: 100px;
+}
+
+.footer-content{
+    padding: 0 30px 10px 30px;
+    display: flex; 
+    flex-direction: column;
+    width: max-content;
+}
+
+.copyright{
+    text-align: center;
+    padding: 10px;
+}
+.featured{
+    font-size: 80px;
+    font-weight: 700;
+    text-align: center;
+
+    margin-bottom: 70px;
+}
+
+.supporting{
+    font-size: 28px;
+    font-weight: 600;
+    text-align: center;
+
+    margin: auto;
+    width: 70%;
+
+    color: #8c8c8c;
+}
+
+.content-featured{
+    padding: 60px 0 100px 0;
+}
+
+.featured-second{
+    margin-bottom: 40px;
+}
+
+.supporting-second{
+    font-size: 22px; 
+    text-align: left;
+}
+
+.featured-third{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.supporting-third{
+    font-size: 18px;
+    font-weight: 600;
+    color: #8c8c8c;
+}

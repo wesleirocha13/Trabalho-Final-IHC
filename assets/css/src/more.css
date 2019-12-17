@@ -1,0 +1,98 @@
+.text > span{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+}
+.div-more-icons{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.phone-more{
+    width: 308px;
+    height: 608px;
+    background: url('../../images/phone-more.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.more-icon{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.icon-audio{
+    width: 51px;
+    height: 51px;
+    background: url('../../images/icon-audio.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon-dolby{
+    width: 65px;
+    height: 51px;
+    background: url('../../images/icon-dolby.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon-recharge{
+    width: 51px;
+    height: 51px;
+    background: url('../../images/icon-recharge.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon-fast_charge{
+    width: 51px;
+    height: 51px;
+    background: url('../../images/icon-fast_charge.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon-wifi{
+    width: 51px;
+    height: 51px;
+    background: url('../../images/icon-wifi.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon-4g{
+    width: 51px;
+    height: 51px;
+    background: url('../../images/icon-4g.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon-bluetooth{
+    width: 80px;
+    height: 51px;
+    background: url('../../images/icon-bluetooth.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon-dual_sim{
+    width: 60px;
+    height: 51px;
+    background: url('../../images/icon-dual_sim.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.video{
+	width: 60% !important;
+	height:60% !important;	
+}	

@@ -1,0 +1,7 @@
+.phone-chip{
+    width: 334px;
+    height: 657px;
+    background: url('../../images/phone-chip.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,2 +1,4 @@
-# Trabalho-IHC
-Trabalho da disciplina Interação Homem Computador, foi desenvolvido um site para fins de apresentação de um produto.
+# Trabalho-final-IHC
+Autor: Weslei Rocha de Souza
+
+- Categoria: Site para demonstrativo de um produto.
